@@ -1,0 +1,15 @@
+﻿using JutaApi.Core.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace JutaAPi.Infrastructure.Interfaces
+{
+    public interface IPost
+    {
+        Task<Post> GetByIdAsync(int id);
+        
+    }
+}

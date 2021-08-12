@@ -1,0 +1,12 @@
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\bin\Debug\net5.0\JutaApi.Core.deps.json
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\bin\Debug\net5.0\JutaApi.Core.dll
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\bin\Debug\net5.0\ref\JutaApi.Core.dll
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\bin\Debug\net5.0\JutaApi.Core.pdb
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\obj\Debug\net5.0\JutaApi.Core.csprojAssemblyReference.cache
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\obj\Debug\net5.0\JutaApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\obj\Debug\net5.0\JutaApi.Core.AssemblyInfoInputs.cache
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\obj\Debug\net5.0\JutaApi.Core.AssemblyInfo.cs
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\obj\Debug\net5.0\JutaApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\obj\Debug\net5.0\JutaApi.Core.dll
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\obj\Debug\net5.0\ref\JutaApi.Core.dll
+C:\Users\Dataifx_JonathanA\source\repos\JutaAPi\JutaApi.Core\obj\Debug\net5.0\JutaApi.Core.pdb
